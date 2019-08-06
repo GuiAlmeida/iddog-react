@@ -11,6 +11,7 @@ A aplicação foi feita utilizando:
 - Axios
 - Styled Components
 - BEM
+- Yarn
 
 ## Pré-requisitos
 
@@ -22,7 +23,7 @@ yarn -v
 ```
 
 Links para instalação:
-[Node](https://nodejs.org/en/) [Yarn](https://yarnpkg.com/pt-BR/)
+[Node](https://nodejs.org/en/) e [Yarn](https://yarnpkg.com/pt-BR/)
 
 
 # Instruções para rodar o projeto
