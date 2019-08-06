@@ -14,14 +14,15 @@ A aplicação foi feita utilizando:
 
 ## Pré-requisitos
 
-Necessário ter o node instalado. Para verificar se está instalado execute o comandos:
+Necessário ter o node e o yarn instalado. Para verificar se está instalado execute o comandos:
 
 ```
 node -v
+yarn -v
 ```
 
-Link para instalação:
-[Node](https://nodejs.org/en/)
+Links para instalação:
+[Node](https://nodejs.org/en/) [Yarn](https://yarnpkg.com/pt-BR/)
 
 
 # Instruções para rodar o projeto
